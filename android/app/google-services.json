@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007562749528",
+    "project_id": "barbarago9b",
+    "storage_bucket": "barbarago9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007562749528:android:10004a146917cb06cc3c2d",
+        "android_client_info": {
+          "package_name": "com.barbara.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ieugDgx5mUUU8UGn5Ajd_OhrWJ9Lr58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
